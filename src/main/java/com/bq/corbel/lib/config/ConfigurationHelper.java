@@ -1,4 +1,4 @@
-package io.corbel.lib.config;
+package com.bq.corbel.lib.config;
 
 /**
  * @author Alexander De Leon

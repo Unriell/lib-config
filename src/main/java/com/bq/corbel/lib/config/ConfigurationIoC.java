@@ -1,4 +1,4 @@
-package io.corbel.lib.config;
+package com.bq.corbel.lib.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
